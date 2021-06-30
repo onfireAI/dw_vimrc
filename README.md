@@ -1,7 +1,7 @@
 # dw_vimrc
 linux下vim编辑器配置
 ```
-cp .vimc ~/.vimrc
+cp .vimrc ~/.vimrc
 ```
 因为有部分插件的存在，需要进行配置
 ```
